@@ -1,0 +1,18 @@
+docker attach 	Attach local standard input, output, and error streams to a running container
+docker build 	Build an image from a Dockerfile
+docker checkpoint 	Manage checkpoints
+docker commit 	Create a new image from a container’s changes
+docker config 	Manage Docker configs
+docker container 	Manage containers
+docker cp 	Copy files/folders between a container and the local filesystem
+docker create 	Create a new container
+docker deploy 	Deploy a new stack or update an existing stack
+docker diff 	Inspect changes to files or directories on a container’s filesystem
+docker events 	Get real time events from the server
+docker exec 	Run a command in a running container
+docker export 	Export a container’s filesystem as a tar archive
+docker history 	Show the history of an image
+docker image 	Manage images
+docker images 	List images
+docker import 	Import the contents from a tarball to create a filesystem image
+docker info 	Display system-wide information
